@@ -5,5 +5,5 @@
     generate a password for you.
 
     You would have to choose the strength level of password.
-    Either an easy one a medium or a hard one.
+    Either a weak one a medium or a strong one.
 
